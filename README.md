@@ -153,5 +153,4 @@ We welcome contributions! If you'd like to contribute, here's how you can do it:
 5. Open a pull request for review.
 
 ## References
-The datasets are publicly available and can be downloaded from Kaggle: [ Calories Burnt Dataset by Fernando Fernandez.](kaggle.com/datasets/fmendes/fmendesdat263xdemos/data)
-
+The datasets are publicly available and can be downloaded from Kaggle:[Calories Burnt Dataset by Fernando Fernandez](https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos/data)
